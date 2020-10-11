@@ -1,2 +1,2 @@
 # api-gateway
-API Gateway for 3rd part
+API Gateway for 3rd
